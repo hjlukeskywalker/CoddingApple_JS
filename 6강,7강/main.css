@@ -34,3 +34,7 @@
   background-color: red;
   color: whitesmoke;
 }
+
+#email-alert {
+  display: none;
+}
