@@ -30,3 +30,7 @@
 .nav-sub {
   display: none;
 }
+.btn btn-danger {
+  background-color: red;
+  color: whitesmoke;
+}
